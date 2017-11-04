@@ -1,0 +1,5 @@
+该项目使用webpack + vue-cli
+
+运行前请安装好node环境，然后从命令行进入到项目的根目录，再安装该项目的依赖包 -->npm install || cnpm install
+
+该项目已经打包，可执行node prod.server.js命令运行项目，或者执行npm run dev
